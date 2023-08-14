@@ -1,0 +1,7 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Referential/CitiesByPostCode?PostCode=92500",
+    "methode": "GET",
+    "paramètre": [
+       { "PostCode": "92500"}
+      ]     
+}

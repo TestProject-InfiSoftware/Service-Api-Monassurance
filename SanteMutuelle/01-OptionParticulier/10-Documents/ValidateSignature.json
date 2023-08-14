@@ -1,0 +1,11 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Signatures/ValidateSignature",
+    "methode": "POST",
+    "payload": [
+        {
+            "ProjectId": "64d9fe33d01dc2cd88d9405b",
+            "Otp": "884306 ",
+            "Token": "ALAMzhGd24hhYjk1M2U2ZWI4ZTQ0NjYzODc1YjVmYjM1MzNkMzkwODY0ZDlmZTMzZDAxZGMyY2Q4OGQ5NDA1Yg"
+          }
+      ]     
+}

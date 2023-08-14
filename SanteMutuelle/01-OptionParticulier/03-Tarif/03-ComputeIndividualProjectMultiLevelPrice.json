@@ -1,0 +1,60 @@
+{
+    "Prices": [
+      {
+        "Level": "AE",
+        "Price": 37.67
+      },
+      {
+        "Level": "AC",
+        "Price": 41.45
+      },
+      {
+        "Level": "BE",
+        "Price": 40.11
+      },
+      {
+        "Level": "BC",
+        "Price": 45.08
+      },
+      {
+        "Level": "CE",
+        "Price": 47.65
+      },
+      {
+        "Level": "CC",
+        "Price": 55.42
+      },
+      {
+        "Level": "CF",
+        "Price": 60.6
+      },
+      {
+        "Level": "DE",
+        "Price": 54.47
+      },
+      {
+        "Level": "DC",
+        "Price": 64.88
+      },
+      {
+        "Level": "DF",
+        "Price": 71
+      },
+      {
+        "Level": "EC",
+        "Price": 78.91
+      },
+      {
+        "Level": "EF",
+        "Price": 86.44
+      },
+      {
+        "Level": "FC",
+        "Price": 100.16
+      },
+      {
+        "Level": "FF",
+        "Price": 109.81
+      }
+    ]
+  }

@@ -1,0 +1,11 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Referential/PostalAddress?City=Rueil-Malmaison&PostalCode=92500&Address=925",
+    "methode": "GET",
+    "payload": [
+        {
+            "City": "Rueil-Malmaison",
+            "PostalCode": "92500",
+            "Address": "92500"
+        }
+    ]
+}

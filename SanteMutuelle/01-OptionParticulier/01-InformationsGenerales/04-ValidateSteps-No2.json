@@ -1,0 +1,113 @@
+
+  {
+    "url": " https://api-dev.spvie.com/laasb2c/v1/Validation/ValidateStep",
+    "methode": "POST",
+    "payloard": [
+      {
+        "Project": {
+          "PaymentPeriod": 1,
+          "DevoirConseilFields": {
+            "Covers": [
+              {
+                "Need": true,
+                "Products": [
+                  {
+                    "Need": true,
+                    "Budget": 0
+                  }
+                ],
+                "Services": [
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {}
+                ]
+              },
+              {
+                "Need": false,
+                "Products": [
+                  {
+                    "Need": true,
+                    "Budget": 0
+                  }
+                ],
+                "Services": [
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {}
+                ]
+              },
+              {
+                "Need": false,
+                "Products": [
+                  {
+                    "Need": false,
+                    "Budget": 0
+                  },
+                  {
+                    "Need": false,
+                    "Budget": 0
+                  },
+                  {
+                    "Need": false,
+                    "Budget": 0
+                  }
+                ],
+                "Checks": [
+                  {
+                    "Value": false
+                  },
+                  {
+                    "Value": false
+                  },
+                  {
+                    "Value": false
+                  }
+                ],
+                "Services": [
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {}
+                ]
+              }
+            ]
+          },
+          "Client": {
+            "Email": "",
+            "Phone": "",
+            "City": "Rueil-Malmaison",
+            "Country": "France",
+            "BirthTown": "Rueil-Malmaison",
+            "BirthCountry": "France",
+            "NationalityName": "Française",
+            "CountryOfTaxResidence": "France",
+            "TaxDueDate": "31/01",
+            "PostCode": "92500",
+            "BirthDate": "02/27/1990",
+            "SocialSecurityRegime": "RG",
+            "Name": "",
+            "MaidenName": "",
+            "FirstName": "Lou",
+            "SocialSecurityNumber": "",
+            "Title": 1,
+            "OrganismeCode": ""
+          },
+          "EffectDate": "08/15/2023",
+          "Level": "Formule 1",
+          "Commission": 20.01,
+          "ProductSpecificFields": {},
+          "ProductCategory": 25
+        },
+        "Step": 1
+      }
+    
+      ]     
+}

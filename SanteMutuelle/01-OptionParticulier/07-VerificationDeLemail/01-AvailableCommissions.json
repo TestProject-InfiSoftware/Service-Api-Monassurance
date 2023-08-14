@@ -1,0 +1,8 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Broker/AvailableCommissions/25",
+    "methode": "GET",
+    "paramètre": [
+        20.01,
+        20.01
+      ]     
+}

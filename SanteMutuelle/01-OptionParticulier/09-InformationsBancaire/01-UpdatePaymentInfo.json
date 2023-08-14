@@ -1,0 +1,10 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Projects/UpdatePaymentInfo/64d9fe33d01dc2cd88d9405b/AHB2-Nqd24g4NDlmNzI2NTVlZmM0MjFlYjkxODk2ZGVhMTBmMjc3ZDY0ZDlmZTMzZDAxZGMyY2Q4OGQ5NDA1Yg",
+    "methode": "POST",
+    "payload": [
+        {
+            "Iban": "FR9714508000405577998392Q24",
+            "Bic": "CMCIFRPP"
+          }
+      ]     
+}

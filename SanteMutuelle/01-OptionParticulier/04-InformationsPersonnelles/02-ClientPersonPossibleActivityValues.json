@@ -1,0 +1,315 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Products/ClientPersonPossibleActivityValues",
+    "methode": "GET",
+    "paramètre": [
+       { 
+        "Activities": [
+          {
+            "label": "Agriculteurs",
+            "value": "Agriculture",
+            "parent": null
+          },
+          {
+            "label": "Artisans, commerçants et chefs d'entreprises, professions libérales",
+            "value": "CraftsmenTradersAndCeo",
+            "parent": null
+          },
+          {
+            "label": "Cadres et professions intellectuelles supérieures du secteur privé",
+            "value": "ManagersAndHigherIntellectualProfessions",
+            "parent": null
+          },
+          {
+            "label": "Conjoint Collaborateur",
+            "value": "CollaboratingPartners",
+            "parent": null
+          },
+          {
+            "label": "Employés",
+            "value": "Employees",
+            "parent": null
+          },
+          {
+            "label": "Etudiant",
+            "value": "Student",
+            "parent": null
+          },
+          {
+            "label": "Fonctionnaire",
+            "value": "PublicServices",
+            "parent": null
+          },
+          {
+            "label": "Haut fonctionnaire (Cadre supérieur)",
+            "value": "HighOfficial",
+            "parent": null
+          },
+          {
+            "label": "Mandataire social",
+            "value": "CorporateOfficer",
+            "parent": null
+          },
+          {
+            "label": "Ouvriers",
+            "value": "Workers",
+            "parent": null
+          },
+          {
+            "label": "Professions intermédiaires",
+            "value": "IntermediateProfessions",
+            "parent": null
+          },
+          {
+            "label": "Retraité",
+            "value": "Retired",
+            "parent": null
+          },
+          {
+            "label": "Sans profession",
+            "value": "NoOccupation",
+            "parent": null
+          }
+        ],
+        "ActivitiesFields": [
+          {
+            "label": "Activité financière et d'assurance",
+            "value": "BankInsurance",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Activités spécialisées, scientifiques et techniques",
+            "value": "SpecializedActivities",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Administration publique",
+            "value": "PublicAdministration",
+            "parent": [
+              "PublicServices",
+              "HighOfficial"
+            ]
+          },
+          {
+            "label": "Agriculture",
+            "value": "Agriculture",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Arts, spectacles et activités récréatives",
+            "value": "Entertainment",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Autres activités de services",
+            "value": "OtherServiceActivities",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Commerce / réparation d'automobiles et de motocycles",
+            "value": "Trade",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Construction, BTP",
+            "value": "Construction",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Enseignement",
+            "value": "Education",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Entreprise publique",
+            "value": "PublicCompany",
+            "parent": [
+              "PublicServices",
+              "HighOfficial",
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Hébergement / Restauration",
+            "value": "AccommodationCatering",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Immobilier",
+            "value": "RealEstate",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Industries / Production",
+            "value": "Industries",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Information et communication",
+            "value": "InformationAndCommunication",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "N/A",
+            "value": "NA",
+            "parent": []
+          },
+          {
+            "label": "Politique (Exécutive, législative, militaire, représentative...) ",
+            "value": "PoliticalFunctions",
+            "parent": [
+              "PublicServices",
+              "HighOfficial",
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Santé humaine et action sociale",
+            "value": "Health",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Services administratifs",
+            "value": "AdministrativeServices",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          },
+          {
+            "label": "Transports et entreposage",
+            "value": "Transportation",
+            "parent": [
+              "CraftsmenTradersAndCeo",
+              "CorporateOfficer",
+              "CollaboratingPartners",
+              "ManagersAndHigherIntellectualProfessions",
+              "IntermediateProfessions",
+              "Employees",
+              "Workers"
+            ]
+          }
+        ]
+      }
+      ]     
+}

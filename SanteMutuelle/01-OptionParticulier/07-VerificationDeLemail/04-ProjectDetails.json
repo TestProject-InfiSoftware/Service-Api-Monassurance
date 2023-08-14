@@ -1,0 +1,324 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Projects/ProjectDetails/64d9fe33d01dc2cd88d9405b/AHB2-Nqd24g4NDlmNzI2NTVlZmM0MjFlYjkxODk2ZGVhMTBmMjc3ZDY0ZDlmZTMzZDAxZGMyY2Q4OGQ5NDA1Yg",
+    "methode": "GET",
+    "preview": [
+        {
+            "BrokerMail": "spvie.b2c@assurware.com",
+            "GlobalPrice": 41.45,
+            "CreationDate": "2023-08-14T12:13:07.65+02:00",
+            "ProjectReference": "ZA-45-8971",
+            "ProductName": "SMART SANTE Particulier V2",
+            "ProductInfos": {
+              "ProductId": "646f62d94c6bf13b0e101669",
+              "ProductEnumName": 82,
+              "ProductCategoryEnum": 27,
+              "IsPpeGda": true,
+              "IsSurco": false,
+              "PaymentPeriod": 1
+            },
+            "ProjectStatus": 1,
+            "DocumentsSigned": false,
+            "MailSended": true,
+            "TaxDueDate": null,
+            "QuotationId": "64d9fe33d01dc2cd88d9405b",
+            "Price": 41.45,
+            "ClientCompany": null,
+            "DevoirConseilFields": {
+              "Covers": [
+                {
+                  "Need": true,
+                  "Current": false,
+                  "Label": null,
+                  "Products": [
+                    {
+                      "Need": true,
+                      "Current": false,
+                      "Label": "None",
+                      "ProductIds": null,
+                      "EffectDate": "2023-08-15T00:00:00+02:00",
+                      "OtherNeeds": null,
+                      "CurrentSpecifications": null,
+                      "MinAge": 0,
+                      "MaxAge": 0,
+                      "Target": {
+                        "SingleTarget": 0,
+                        "WithAncestors": false,
+                        "WithHim": false,
+                        "WithSpouse": false,
+                        "WithChild": false
+                      },
+                      "NumberOfChildren": 0,
+                      "Budget": 50,
+                      "DoNotWishToAnswer": false,
+                      "Levels": [
+                        {
+                          "Need": true,
+                          "Current": false,
+                          "Value": "AC",
+                          "Label": "AC",
+                          "Name": "AC",
+                          "LabelOption": null
+                        }
+                      ],
+                      "DeathBenefit": 0
+                    }
+                  ],
+                  "Type": 0,
+                  "Services": [
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    }
+                  ],
+                  "Checks": null,
+                  "OtherNeeds": null,
+                  "CurrentSpecifications": null
+                },
+                {
+                  "Need": false,
+                  "Current": false,
+                  "Label": null,
+                  "Products": [
+                    {
+                      "Need": true,
+                      "Current": false,
+                      "Label": null,
+                      "ProductIds": null,
+                      "EffectDate": "0001-01-01T00:00:00+00:10",
+                      "OtherNeeds": null,
+                      "CurrentSpecifications": null,
+                      "MinAge": 0,
+                      "MaxAge": 0,
+                      "Target": null,
+                      "NumberOfChildren": 0,
+                      "Budget": 50,
+                      "DoNotWishToAnswer": false,
+                      "Levels": null,
+                      "DeathBenefit": 0
+                    }
+                  ],
+                  "Type": 0,
+                  "Services": [
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    }
+                  ],
+                  "Checks": null,
+                  "OtherNeeds": null,
+                  "CurrentSpecifications": null
+                },
+                {
+                  "Need": false,
+                  "Current": false,
+                  "Label": null,
+                  "Products": [
+                    {
+                      "Need": false,
+                      "Current": false,
+                      "Label": null,
+                      "ProductIds": null,
+                      "EffectDate": "0001-01-01T00:00:00+00:10",
+                      "OtherNeeds": null,
+                      "CurrentSpecifications": null,
+                      "MinAge": 0,
+                      "MaxAge": 0,
+                      "Target": null,
+                      "NumberOfChildren": 0,
+                      "Budget": 50,
+                      "DoNotWishToAnswer": false,
+                      "Levels": null,
+                      "DeathBenefit": 0
+                    },
+                    {
+                      "Need": false,
+                      "Current": false,
+                      "Label": null,
+                      "ProductIds": null,
+                      "EffectDate": "0001-01-01T00:00:00+00:10",
+                      "OtherNeeds": null,
+                      "CurrentSpecifications": null,
+                      "MinAge": 0,
+                      "MaxAge": 0,
+                      "Target": null,
+                      "NumberOfChildren": 0,
+                      "Budget": 50,
+                      "DoNotWishToAnswer": false,
+                      "Levels": null,
+                      "DeathBenefit": 0
+                    },
+                    {
+                      "Need": false,
+                      "Current": false,
+                      "Label": null,
+                      "ProductIds": null,
+                      "EffectDate": "0001-01-01T00:00:00+00:10",
+                      "OtherNeeds": null,
+                      "CurrentSpecifications": null,
+                      "MinAge": 0,
+                      "MaxAge": 0,
+                      "Target": null,
+                      "NumberOfChildren": 0,
+                      "Budget": 50,
+                      "DoNotWishToAnswer": false,
+                      "Levels": null,
+                      "DeathBenefit": 0
+                    }
+                  ],
+                  "Type": 0,
+                  "Services": [
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    },
+                    {
+                      "Id": 0,
+                      "Label": null,
+                      "Level": 1
+                    }
+                  ],
+                  "Checks": [
+                    {
+                      "Label": null,
+                      "Value": false
+                    },
+                    {
+                      "Label": null,
+                      "Value": false
+                    },
+                    {
+                      "Label": null,
+                      "Value": false
+                    }
+                  ],
+                  "OtherNeeds": null,
+                  "CurrentSpecifications": null
+                }
+              ]
+            },
+            "Client": {
+              "Iban": null,
+              "Bic": null,
+              "BirthTown": "Rueil-Malmaison",
+              "BirthDepartment": "92500",
+              "BirthCountry": "France",
+              "NationalityName": "Française",
+              "IsPoliticallyExposed": false,
+              "IsFamilyPoliticallyExposed": false,
+              "TaxDueDate": "31/01",
+              "Phone": "0609017730",
+              "Address": "92500",
+              "City": "Rueil-Malmaison",
+              "Country": "France",
+              "CountryOfTaxResidence": "France",
+              "Activity": "CraftsmenTradersAndCeo",
+              "ActivityField": "Agriculture",
+              "Spouse": null,
+              "Children": [],
+              "Ancestors": [],
+              "PostCode": "92500",
+              "BirthDate": "1990-02-27T00:00:00+01:00",
+              "SocialSecurityRegime": "RG",
+              "Name": "Zaha",
+              "MaidenName": "Zaha",
+              "FirstName": "Lou",
+              "SocialSecurityNumber": "190029278200581",
+              "Title": 0,
+              "OrganismeCode": "018001000",
+              "FamilySituation": 0,
+              "Email": "functional-tests@assurware.com"
+            },
+            "EffectDate": "2023-08-15T00:00:00+02:00",
+            "Level": "AC",
+            "Commission": 18.01,
+            "OptionLevel": null,
+            "BrokerCode": 64391,
+            "ProductCategory": 27,
+            "Freelancer": false,
+            "AnnualRevenue": 0,
+            "ProductSpecificFields": {
+              "RcProPrestaServiceFields": null,
+              "AlphaSanteTnsServiceFields": null,
+              "RcProAgentCommImmoServiceFields": null,
+              "SanteInternationaleServiceFields": null,
+              "InsuranceCoverType": null
+            },
+            "IsSurcoEnabled": null,
+            "PaymentPeriod": 1,
+            "SourceApp": 0
+          }
+      ]     
+}

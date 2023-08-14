@@ -1,0 +1,175 @@
+
+  {
+    "url": " https://api-dev.spvie.com/laasb2c/v1/Projects/SaveLead",
+    "methode": "POST",
+    "payload": [
+        {
+            "B2CLeadId": "64d9f13dd01dc2cd88d9403f",
+            "AgreeForEmailNotifications": true,
+            "AgreeForPhoneNotifications": true,
+            "PaymentPeriod": 1,
+            "DevoirConseilFields": {
+              "Covers": [
+                {
+                  "Need": true,
+                  "Products": [
+                    {
+                      "Need": true,
+                      "Budget": 50
+                    }
+                  ],
+                  "Services": [
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    }
+                  ]
+                },
+                {
+                  "Need": false,
+                  "Products": [
+                    {
+                      "Need": true,
+                      "Budget": 50
+                    }
+                  ],
+                  "Services": [
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    }
+                  ]
+                },
+                {
+                  "Need": false,
+                  "Products": [
+                    {
+                      "Need": false,
+                      "Budget": 50
+                    },
+                    {
+                      "Need": false,
+                      "Budget": 50
+                    },
+                    {
+                      "Need": false,
+                      "Budget": 50
+                    }
+                  ],
+                  "Checks": [
+                    {
+                      "Value": false
+                    },
+                    {
+                      "Value": false
+                    },
+                    {
+                      "Value": false
+                    }
+                  ],
+                  "Services": [
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    },
+                    {
+                      "Level": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            "AddtionalProductOffers": [
+              {
+                "Price": 37.67,
+                "Level": "AE",
+                "Commission": 20.01,
+                "ProductCategory": 27
+              },
+              {
+                "Price": 41.45,
+                "Level": "AC",
+                "Commission": 20.01,
+                "ProductCategory": 27
+              },
+              {
+                "Price": 48.54,
+                "Level": "Formule 1",
+                "Commission": 20.01,
+                "ProductCategory": 25
+              }
+            ],
+            "Client": {
+              "Email": "functional-tests@assurware.com",
+              "Phone": "0609017730",
+              "Address": "92500",
+              "City": "Rueil-Malmaison",
+              "Country": "France",
+              "BirthTown": "Rueil-Malmaison",
+              "BirthDepartment": "92500",
+              "BirthCountry": "France",
+              "NationalityName": "Française",
+              "IsPoliticallyExposed": false,
+              "IsFamilyPoliticallyExposed": false,
+              "CountryOfTaxResidence": "France",
+              "Activity": "CraftsmenTradersAndCeo",
+              "ActivityField": "Agriculture",
+              "TaxDueDate": "31/01",
+              "PostCode": "92500",
+              "BirthDate": "02/27/1990",
+              "SocialSecurityRegime": "RG",
+              "Name": "Zaha",
+              "MaidenName": "Zaha",
+              "FirstName": "Lou",
+              "SocialSecurityNumber": "190029278200581",
+              "Title": 0,
+              "OrganismeCode": "018001000"
+            },
+            "EffectDate": "08/15/2023",
+            "Level": "AC",
+            "Commission": 20.01,
+            "ProductSpecificFields": {},
+            "ProductCategory": 27,
+            "IsSendedToKayros": false
+          }
+      ]     
+}
