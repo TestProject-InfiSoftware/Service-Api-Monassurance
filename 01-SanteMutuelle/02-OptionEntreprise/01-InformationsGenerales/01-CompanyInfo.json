@@ -1,6 +1,6 @@
 {
     "url": "https://api-dev.spvie.com/laasb2c/v1/Referential/CompanyInfo?siret=",
-    "methode": "POST",
+    "methode": "GET",
     "payload": [
         {
             "siret": "63201210001978"

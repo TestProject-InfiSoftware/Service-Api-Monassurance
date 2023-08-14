@@ -1,0 +1,89 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Broker/AvailableCommissions/5",
+    "methode": "POST",
+    "payload": [
+      {
+        "Project": {
+          "AgreeForEmailNotifications": true,
+          "AgreeForPhoneNotifications": true,
+          "PaymentPeriod": 1,
+          "DevoirConseilFields": {
+            "Covers": [
+              {
+                "Need": false,
+                "Products": [
+                  {
+                    "Need": true,
+                    "Budget": 50
+                  }
+                ]
+              },
+              {
+                "Need": false,
+                "Products": [
+                  {
+                    "Need": true,
+                    "Budget": 50
+                  }
+                ]
+              },
+              {
+                "Need": true,
+                "Products": [
+                  {
+                    "Need": true,
+                    "Budget": 50
+                  },
+                  {
+                    "Need": false,
+                    "Budget": 50
+                  },
+                  {
+                    "Need": false,
+                    "Budget": 50
+                  }
+                ],
+                "Checks": [
+                  {
+                    "Value": false
+                  },
+                  {
+                    "Value": false
+                  },
+                  {
+                    "Value": false
+                  }
+                ]
+              }
+            ]
+          },
+          "Client": {
+            "Email": "functional-tests@assurware.com",
+            "Phone": "0609017730",
+            "Country": "France",
+            "BirthCountry": "France",
+            "NationalityName": "Française",
+            "CountryOfTaxResidence": "France",
+            "TaxDueDate": "31/01",
+            "PostCode": "",
+            "BirthDate": "08/4/1994",
+            "SocialSecurityRegime": "",
+            "Name": "",
+            "MaidenName": "",
+            "FirstName": "Lala",
+            "SocialSecurityNumber": "",
+            "Title": 1,
+            "OrganismeCode": ""
+          },
+          "EffectDate": "08/15/2023",
+          "Level": "Niveau A",
+          "Commission": 0,
+          "ProductCategory": 5,
+          "ProductSpecificFields": {}
+        },
+        "Steps": [
+          18
+        ]
+      }
+      ]     
+}

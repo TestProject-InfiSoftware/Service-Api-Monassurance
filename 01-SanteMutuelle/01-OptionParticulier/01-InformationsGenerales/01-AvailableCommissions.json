@@ -1,0 +1,10 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Broker/AvailableCommissions/25",
+    "methode": "GET",
+    "preview": [
+        [
+            20.01,
+            20.01
+          ]
+      ]     
+}
