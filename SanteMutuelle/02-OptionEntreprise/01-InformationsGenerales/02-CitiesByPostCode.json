@@ -1,0 +1,22 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Referential/CitiesByPostCode?PostCode=",
+    "methode": "GET",
+    "payload": [
+        {
+            "PostCode": "26100"
+          }
+      ]  ,
+      "preview" : [
+        [
+            {
+              "Address": null,
+              "Label": null,
+              "Context": null,
+              "City": "Romans-sur-Isère",
+              "PostCode": "26100",
+              "CityCode": null,
+              "DepartmentCode": null
+            }
+          ]
+      ]   
+}

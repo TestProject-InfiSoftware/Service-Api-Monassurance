@@ -1,0 +1,106 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Projects/SendFormByEmail",
+    "methode": "POST",
+    "payload": [
+        {
+            "ProductCategory": 21,
+            "Categories": [
+              {
+                "CategoryName": "Informations générales",
+                "Fields": [
+                  {
+                    "FieldName": "N°SIRET",
+                    "value": "63201210001978"
+                  },
+                  {
+                    "FieldName": "Forme légale",
+                    "value": "SA"
+                  },
+                  {
+                    "FieldName": "Code APE",
+                    "value": "7740Z"
+                  },
+                  {
+                    "FieldName": "Raison sociale",
+                    "value": "L'OREAL"
+                  },
+                  {
+                    "FieldName": "Convention collective",
+                    "value": "10000"
+                  },
+                  {
+                    "FieldName": "Régime social",
+                    "value": "Régime général"
+                  },
+                  {
+                    "FieldName": "Adresse",
+                    "value": "60 AV GAMBETTA "
+                  },
+                  {
+                    "FieldName": "Code postal/ville",
+                    "value": "26100, Romans-sur-Isère"
+                  }
+                ]
+              },
+              {
+                "CategoryName": "Besoins",
+                "Fields": [
+                  {
+                    "FieldName": "SANTÉ",
+                    "value": "Ensemble du personnel (cadres et non cadres dans le même contrat) "
+                  },
+                  {
+                    "FieldName": "Effectif Sante",
+                    "value": 10
+                  },
+                  {
+                    "FieldName": "Age moyen sante",
+                    "value": 25
+                  },
+                  {
+                    "FieldName": "PRÉVOYANCE"
+                  },
+                  {
+                    "FieldName": "Effectif prevoyance",
+                    "value": 0
+                  },
+                  {
+                    "FieldName": "Age moyen prevoyance",
+                    "value": 0
+                  }
+                ]
+              },
+              {
+                "CategoryName": "Coordonnées",
+                "Fields": [
+                  {
+                    "FieldName": "Nom",
+                    "value": "Lauriat"
+                  },
+                  {
+                    "FieldName": "Prénom",
+                    "value": "Zaha"
+                  },
+                  {
+                    "FieldName": "Fonction",
+                    "value": "Dirigeant"
+                  },
+                  {
+                    "FieldName": "Adresse mail",
+                    "value": "functional-tests@assurware.com"
+                  },
+                  {
+                    "FieldName": "Numéro de téléphone",
+                    "value": "0101040561"
+                  },
+                  {
+                    "FieldName": "Commentaire",
+                    "value": ""
+                  }
+                ]
+              }
+            ]
+          }
+      ]  
+    
+}

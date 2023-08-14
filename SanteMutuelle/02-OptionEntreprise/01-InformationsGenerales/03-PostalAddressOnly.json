@@ -1,0 +1,85 @@
+{
+    "url": "https://api-dev.spvie.com/laasb2c/v1/Referential/CitiesByPostCode?PostCode=",
+    "methode": "GET",
+    "payload": [
+        {
+            "address": "60%20AV%20GAMBETTA"
+          }
+      ]  ,
+      "preview": [
+        [
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 75020 Paris",
+              "Context": "75, Paris, Île-de-France",
+              "City": "Paris",
+              "PostCode": "75020",
+              "CityCode": "75120",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 94700 Maisons-Alfort",
+              "Context": "94, Val-de-Marne, Île-de-France",
+              "City": "Maisons-Alfort",
+              "PostCode": "94700",
+              "CityCode": "94046",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 93600 Aulnay-sous-Bois",
+              "Context": "93, Seine-Saint-Denis, Île-de-France",
+              "City": "Aulnay-sous-Bois",
+              "PostCode": "93600",
+              "CityCode": "93005",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 94100 Saint-Maur-des-Fossés",
+              "Context": "94, Val-de-Marne, Île-de-France",
+              "City": "Saint-Maur-des-Fossés",
+              "PostCode": "94100",
+              "CityCode": "94068",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 81000 Albi",
+              "Context": "81, Tarn, Occitanie",
+              "City": "Albi",
+              "PostCode": "81000",
+              "CityCode": "81004",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 34500 Béziers",
+              "Context": "34, Hérault, Occitanie",
+              "City": "Béziers",
+              "PostCode": "34500",
+              "CityCode": "34032",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 93190 Livry-Gargan",
+              "Context": "93, Seine-Saint-Denis, Île-de-France",
+              "City": "Livry-Gargan",
+              "PostCode": "93190",
+              "CityCode": "93046",
+              "DepartmentCode": null
+            },
+            {
+              "Address": "60 Avenue Gambetta",
+              "Label": "60 Avenue Gambetta 33700 Mérignac",
+              "Context": "33, Gironde, Nouvelle-Aquitaine",
+              "City": "Mérignac",
+              "PostCode": "33700",
+              "CityCode": "33281",
+              "DepartmentCode": null
+            }
+          ]
+      ]   
+}
